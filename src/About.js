@@ -1,7 +1,7 @@
 import React from "react";
 import HeroSection from "./components/HeroSection";
 
-//about section component data
+//about section component 
 const About = () => {
   const data = {
     name: "Our Store",
